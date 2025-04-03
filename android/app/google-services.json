@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "157870663802",
+    "project_id": "style-hive-3b54b",
+    "storage_bucket": "style-hive-3b54b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157870663802:android:4ab039409aca0705a833c3",
+        "android_client_info": {
+          "package_name": "com.example.style_hive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLYFmTzQHOwsqEkLKKAWwIisZd46j6D-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
